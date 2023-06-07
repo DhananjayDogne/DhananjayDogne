@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DhananjayDogne
-- 👀 I’m interested in datascience and webdevlopment
-- 🌱 I’m currently learning datascience 
+- 👀 I’m interested in webdevlopment
+- 🌱 I’m currently learning webdevlopment
 - 💞️ I’m looking to collaborate on.. 
 - 📫 How to reach me ...
 
